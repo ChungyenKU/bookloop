@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <meta charset="big5"></meta>
+    <meta charset="big5">
     <title>新書資訊網</title>
     <style type="text/css">
     .head {
@@ -493,14 +493,14 @@ $(document).ready(function() {
         </div>
         <div class="middlebox">
          <div class="bookbox">
-			<img src="https://www.kadokawa.com.tw/Upload/product_201704271639341.jpg" width="80px" height="100px" style="margin-top: 5px;margin-left: 10px;"align="left"></img>
+			<img src="https://www.kadokawa.com.tw/Upload/product_201704271639341.jpg" width="80px" height="100px" style="margin-top: 5px;margin-left: 10px;"align="left">
 			<div align="right" style="margin-top: 5px;font-family:微軟正黑體;font-size:5px;color:red;">台灣角川</div>
 			<div align="left"  style="margin-top: 15px";><a href="https://www.kadokawa.com.tw/p1-products_detail.php?id=8ab9LkRLpIQXTPQaPX5JCCzDeWXAAdIMRcBn0UqBN9Tb" style="color:#348F33; text-decoration:none;">Taipei Walker 241期</a></div>
 			<div align="right" style="margin-top: 5px;font-family:微軟正黑體;font-size:5px;color:blue;">Taipei Walker編輯部</div>
 			
 		</div>
 		<div class="bookbox">
-			<img src="https://www.kadokawa.com.tw/Upload/product_201705251645151.jpg" width="80px" height="100px" style="margin-top: 5px;margin-left: 10px;"align="left"></img>
+			<img src="https://www.kadokawa.com.tw/Upload/product_201705251645151.jpg" width="80px" height="100px" style="margin-top: 5px;margin-left: 10px;"align="left">
 			<div align="right" style="margin-top: 5px;font-family:微軟正黑體;font-size:5px;color:red;">台灣角川</div>
 
 			<div align="left"  style="margin-top: 15px";><a href="https://www.kadokawa.com.tw/p1-products_detail.php?id=54dfROcNQ5DmFrBS9i6YUVtJQI6uWv6uW-QQeYQnozgw" style="color:#348F33; text-decoration:none;">Taipei Walker 242期</a></div>
